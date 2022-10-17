@@ -1,4 +1,4 @@
-# Desafio do nível 03 intermediário - Grid com animações
+# Desafio do nível 04 - Exercicio 02 - Javascript
 
 ![preview](github/preview.jpg)
 
