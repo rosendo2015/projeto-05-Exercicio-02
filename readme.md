@@ -10,6 +10,7 @@
 
 - HTML
 - CSS
+- Javascript
 - Git e Github
 
 
